@@ -24,7 +24,6 @@ Currently there are nodes for the following bricklets
  - CO2 Bricklet
  - Industrial Diginal In 4 Bricklet
  - Industrial Diginal Out 4 Bricklet
- - Industrial Diginal Out 4 V2 Bricklet
  - PTC Bricklet
  - LED Strip Bricklet
  - Motion Detector Bricklet
